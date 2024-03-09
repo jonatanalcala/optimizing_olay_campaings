@@ -1,11 +1,9 @@
 # Optimizing Olay Campaings
 
-During my internship with Saatchi & Saatchi X, a renowned marketing agency within the Publicis Group, I spearheaded a comprehensive analysis focused on optimizing Olay's marketing campaigns. Utilizing R, dyplr, lmtest, and MASS, I delved into Olay's extensive dataset covering Fiscal Year 2022.
+During my internship with Saatchi & Saatchi X, a prominent marketing agency within the Publicis Group, I took charge of a comprehensive analysis aimed at optimizing Olay's marketing campaigns. Utilizing R-Studio, I undertook an extensive examination of Olay's campaigns spanning the fiscal year 2022-2023, covering various platforms. Essential metrics such as ad spend, clicks, click-through rates (CTR), and reach were meticulously explored to glean insights crucial for refining advertising strategies.
 
-The project commenced with meticulous data cleansing and preparation processes, ensuring the accuracy and reliability of our analyses. Leveraging R and dyplr, I executed a series of transformations and manipulations to wrangle the dataset into a usable format.
+My responsibilities encompassed a multitude of tasks, from data preprocessing to analysis, visualization, and crafting the final presentation. Leveraging R-Studio's robust capabilities, I meticulously cleaned and processed the data, conducted thorough analysis, and generated actionable insights. Utilizing ggplot2, I created visually compelling visualizations to illustrate key trends and findings, enhancing the clarity and impact of my analyses.
 
-Through rigorous analysis, I uncovered significant insights that could drive strategic decisions for Olay's future campaigns. Notably, I discovered that investments in Pinterest platforms yielded a remarkable 20 percent increase in return on investment (ROI). This finding highlighted the effectiveness of Pinterest as a marketing channel for Olay and underscored the importance of allocating resources accordingly in future campaigns.
+Furthermore, I took on the role of a presenter, effectively communicating my findings to clients. Through my presentation, clients gained valuable insights into Olay's campaign performance and were empowered to make informed decisions to enhance their marketing strategies in the competitive digital landscape.
 
-As per the confidentiality agreement with the company, I am unable to share detailed project findings beyond what's presented in the provided PowerPoint presentation. However, the presentation encapsulates key insights, methodologies, and results in a digestible format.
-
-Please find the attached PowerPoint presentation, which provides an overview of the project scope, methodology, and notable findings. If you have any further questions or require additional information, please feel free to reach out.
+This project showcased my versatility as a data scientist, analyst, and presenter, demonstrating my ability to independently manage the entire project lifecycle. My comprehensive approach and adept utilization of R-Studio played a pivotal role in uncovering actionable insights and driving strategic decisions for optimizing Olay's marketing campaigns.
